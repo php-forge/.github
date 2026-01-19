@@ -1,0 +1,31 @@
+---
+name: 🐛 Bug Report
+description: Let us know about problem
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > ⚠️ DON'T CREATE SECURITY ISSUE here. For security vulnerabilities, please use the security advisory feature in the specific project repository instead.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a detailed description of the issue. Include all relevant information to help us understand and reproduce the problem.
+    validations:
+      required: true
+  - type: input
+    id: package-version
+    attributes:
+      label: Package version
+      description: Specify the exact package version you're using
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: php-version
+    attributes:
+      label: PHP version
+      description: Specify the exact PHP version you're using (run `php -v` to check)
+      placeholder: "8.5.0"
+    validations:
+      required: true
