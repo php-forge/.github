@@ -1,12 +1,14 @@
-# PHP Forge
-
+<!-- markdownlint-disable MD041 -->
 <div align="center">
+
+# PHP Forge
 
 **Code Craftsmanship for Reliability**
 
 Foundational, framework-agnostic tools that power the next generation of PHP applications.
 
 </div>
+<!-- markdownlint-disable MD041 -->
 
 ---
 
