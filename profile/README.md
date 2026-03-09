@@ -1,6 +1,6 @@
-<div align="center">
-
 # PHP Forge
+
+<div align="center">
 
 **Code Craftsmanship for Reliability**
 
@@ -19,7 +19,7 @@ Foundational, framework-agnostic tools that power the next generation of PHP app
 ## Packages
 
 | Package | Description |
-|---------|-------------|
+| ------- | ----------- |
 | [coding-standard](https://github.com/php-forge/coding-standard) | Coding standards for PHP projects. |
 | [foxy](https://github.com/php-forge/foxy) | BUN/NPM/Yarn/PNPM bridge for Composer. |
 | [helper](https://github.com/php-forge/helper) | Small, focused helpers for common PHP tasks. |
