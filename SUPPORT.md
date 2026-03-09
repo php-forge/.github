@@ -8,12 +8,12 @@
 
 ## Package Documentation
 
-| Package | Repository |
-| ------- | ---------- |
+| Package         | Repository                                                                |
+| --------------- | ------------------------------------------------------------------------- |
 | coding-standard | [php-forge/coding-standard](https://github.com/php-forge/coding-standard) |
-| foxy | [php-forge/foxy](https://github.com/php-forge/foxy) |
-| helper | [php-forge/helper](https://github.com/php-forge/helper) |
-| support | [php-forge/support](https://github.com/php-forge/support) |
+| foxy            | [php-forge/foxy](https://github.com/php-forge/foxy)                       |
+| helper          | [php-forge/helper](https://github.com/php-forge/helper)                   |
+| support         | [php-forge/support](https://github.com/php-forge/support)                 |
 
 ## Commercial Support
 
