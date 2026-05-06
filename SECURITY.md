@@ -6,7 +6,7 @@
 
 Use the GitHub Security Advisories feature in the affected repository to report vulnerabilities privately:
 
-1. Navigate to the affected repository (for example, `https://github.com/php-forge/repo-name`, replacing `repo-name`
+1. Navigate to the affected repository (for example, `https://github.com/yii2-extensions/repository`, replacing `repository`
    with the affected repository).
 2. Go to the **Security** tab.
 3. Click **Report a vulnerability**.
