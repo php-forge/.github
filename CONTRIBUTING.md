@@ -8,16 +8,16 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 **Requirements:**
 
-- PHP 8.1 or higher.
+- PHP 8.3 or higher.
 - [Composer](https://getcomposer.org/) 2.x.
 
 **Setup:**
 
 ```bash
-git clone https://github.com/php-forge/<package>.git
-cd <package>
+git clone https://github.com/php-forge/<repository>.git
+cd <repository>
 composer install
-composer test
+composer run
 ```
 
 ## Coding Standards
@@ -31,12 +31,13 @@ All PHP code must follow these standards:
 
 ## Testing
 
-- All tests use **PHPUnit 10+**.
+- All tests use **PHPUnit 12+**.
 - Target **100% code coverage** for new code.
-- Run the test suite before submitting a pull request:
+- Run the quality/test scripts defined in the target repository's `composer.json` before submitting a pull request
+  (for example, `test`, `static`, `ecs`, `rector`, or `check-dependencies`):
 
 ```bash
-composer test
+composer run
 ```
 
 ## Pull Request Process
@@ -47,11 +48,6 @@ composer test
 4. One logical change per pull request.
 5. Ensure all tests pass and coding standards are met.
 6. Open a pull request against `main` with a clear description of the change.
-
-## Bug Reports and Feature Requests
-
-- **Bug reports**: Use the [Bug Report](https://github.com/php-forge/.github/issues/new?template=bug-report.yml) template.
-- **Feature requests**: Use the [Feature Request](https://github.com/php-forge/.github/issues/new?template=feature-request.yml) template.
 
 ## Security Vulnerabilities
 
