@@ -1,0 +1,11 @@
+# Local agent and editor state.
+.claude/**
+.codex/**
+.config/gh/**
+.github/agents/**
+.github/copilot-instructions.md
+.github/copilot/**
+.github/instructions/**
+.github/prompts/**
+.github/skills/**
+.vscode/**

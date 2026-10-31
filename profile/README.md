@@ -3,7 +3,7 @@
 
 # PHP Forge
 
-**Code Craftsmanship for Reliability**
+<strong>Code Craftsmanship for Reliability</strong>
 
 Foundational, framework-agnostic tools that power the next generation of PHP applications.
 
