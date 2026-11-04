@@ -20,8 +20,8 @@ List the checks performed and their results. Explain any relevant checks not run
 
 ## Compatibility
 
-Describe any behavior, configuration, dependency, or migration impact.
-Write "None" when there is no compatibility impact.
+Describe any behavior, configuration, dependency, or migration impact. Write "None" when there is no compatibility
+impact.
 
 ## Related issues
 
